@@ -1,0 +1,15 @@
+h1{
+    font-family: Arial, sans-serif;
+    color: rgb(211,139,24);
+}
+p1{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#panel{
+    width: 16%;
+    padding: 20 px;
+    display: inline-block;
+    vertical-align: top;
+    text-aligh: center
+}
